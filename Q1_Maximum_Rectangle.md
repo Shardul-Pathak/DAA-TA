@@ -22,6 +22,3 @@ matrix = [
 ```
 6
 ```
-
-**Explanation:**  
-The highlighted part depicts the rectangle with the largest area = 6.
