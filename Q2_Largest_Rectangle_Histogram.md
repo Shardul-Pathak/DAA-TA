@@ -18,6 +18,3 @@ heights[] = {2, 1, 5, 6, 2, 3}
 ```
 10
 ```
-
-**Explanation:**  
-The largest rectangle is formed by bars with heights `[5, 6]` giving area = 5 × 2 = 10.
